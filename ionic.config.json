@@ -1,0 +1,7 @@
+{
+  "name": "GiroSoft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
